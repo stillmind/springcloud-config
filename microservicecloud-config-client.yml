@@ -8,7 +8,6 @@ eureka:
   client:
     service-url:
       defautZone: http://eureka-dev.com:7001/eureka/
-	  
 ---
 server:
   port: 8202
